@@ -1,5 +1,5 @@
 BAMazon
-Created during Week 12 of Rutgers Coding Bootcamp. The goal was to create an Amazon-like store front using Node.js and MySQL.
+The goal was to create an Amazon-like store front using Node.js and MySQL.
 
 Getting Started
 Clone repo.
